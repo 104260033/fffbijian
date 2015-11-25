@@ -9,13 +9,13 @@
   },
   "require" : {
     "php" : ">=5.4.0",
-    "guzzlehttp/guzzle" : "~6.0"
+    "guzzlehttp/guzzle" : "~5.0" 
   },
   "require-dev" : {
     "phpunit/phpunit": "~4.3"
   },
   "suggest" : {
-    "league/csv" : "~5.0"
+    "league/csv" : "~6.0"
   },
   "autoload":{
     "psr-4":{
