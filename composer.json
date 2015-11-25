@@ -1,7 +1,7 @@
 {
   "name" : "fffbijian/scanhttpstauts",
   "description" : "Scan Urls http status",
-  "keywords" : "url,scaner,csv",
+  "keywords" : ["url","scaner","csv"],
   "homepage" : "",
   "license" : "MIT",
   "support" : {
