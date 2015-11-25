@@ -1,0 +1,25 @@
+{
+  "name" : "fffbijian/scanhttpstauts",
+  "description" : "Scan Urls http status",
+  "keywords" : "url,scaner,csv",
+  "homepage" : "",
+  "license" : "MIT",
+  "support" : {
+    "email" : "eric.fzy@gmail.com"
+  },
+  "require" : {
+    "php" : ">=5.4.0",
+    "guzzlehttp/guzzle" : "~6.0"
+  },
+  "require-dev" : {
+    "phpunit/phpunit": "~4.3"
+  },
+  "suggest" : {
+    "league/csv" : "~5.0"
+  },
+  "autoload":{
+    "psr-4":{
+      "tools\\scanner\\": "src/"
+    }
+  }
+}
